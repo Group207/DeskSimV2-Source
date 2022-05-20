@@ -1,6 +1,6 @@
 ![DeskSim v2 logo](https://i.imgur.com/losG73f.png)
 
-This repository contains the prototype of DeskSim v2, developed as a final graduate project by: 
+This repository contains the source code and documentation for the prototype of DeskSim v2, developed as a final graduate project by: 
 
 - Thomas Arinesalingam
 - John Ole Bjerke
