@@ -18,3 +18,5 @@ engines. We were therefore tasked to initialize the long-term goal of migrating 
 to Unreal Engine 4.
 
 The code is written in C++ and documented with Doxygen. All code in [/Source/DeskSimV2/](Source/DeskSimV2) is written by the group's members. 
+
+This repository can be found at https://github.com/Group207/DeskSimV2-Source
